@@ -143,22 +143,6 @@ Design Patterns | Agile (Scrum, Kanban)
 Enterprise Solutions: CRM, ERP, RMS, B2B
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kareem22T&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kareem22T&theme=github_dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kareem22T&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to discussing new projects, creative ideas, or opportunities to collaborate on innovative solutions.
